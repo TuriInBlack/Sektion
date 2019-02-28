@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<ul id="galerie">
+	<li><button tabindex="1"><img src="BVB TSG1.jpg" alt="Spaß in der Sonne"></button></li>
+	<li><button tabindex="1"><img src="dummy-2.jpg" alt="Berg im Morgennebel"></button></li>
+	<li><button tabindex="1"><img src="dummy-3.jpg" alt="Spaß in der Sonne"></button></li>
+	<li><button tabindex="1"><img src="dummy-4.jpg" alt="Korallenriff"></button></li>
+	<li><button tabindex="1"><img src="dummy-5.jpg" alt="Morgensonne am Gardasee"></button></li>
+	<li><button tabindex="1"><img src="dummy-6.jpg" alt="Via Appia, Rom"></button></li>    
+</ul>
+</body>
+</html> 
